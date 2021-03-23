@@ -1,3 +1,5 @@
+//--------ASSIGNMENT "1"-------------
+
 //------------DESTRUCTRING OF ARRAY/NESTED ARRAY--------------
 
 // let arr_1=["Fahad","Khan",21,"Front-end Developer",["Work for the Best"]]
