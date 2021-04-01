@@ -85,3 +85,41 @@
 //          console.log(result)
 // }
 // nestedTernary();
+
+
+//--------ASSIGNMENT "3"-------------
+//1- How to unique, sort an array in ascending order?
+// const arr = [1,40,2,10,10,40,2,2,5,3,54,2,42,5,5,5];
+// arr.sort(function(a, b){return a-b});
+// console.log([...new Set(arr)]);
+
+//2- Print values using for loop in the following sequence
+// let num = 5;
+// let j;
+// let i;
+// for (i = 1; i <= 5; i++) {
+//     for (let j = 1; j <= i; j++) {
+//         console.log(i)
+//         console.log("")
+        
+//     }
+// }
+
+//3- Sum the folliwg number using for loop
+// let num = prompt("Enter your number");
+// JSON.parse(num)
+// let total = 0;
+// for (let i = 0; i < num.length; i++) {
+//     total += Number(num[i]); 
+    
+// }
+
+// console.log(total)
+
+
+//4- Find the third highest number in array using Set, sort and reverse
+// const arr = [1,210,5,7,65,5,20,8,210,65];
+// arr.sort(function(a, b){return a-b});
+// let newArr=[...new Set(arr)];
+// newArr.reverse();
+// console.log(newArr[2])//RETURN THIRD HIGHEST NUMBER OF ARRAY
